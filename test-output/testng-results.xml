@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-14T15:10:12 IST" name="SearchAndAddProductsSuite" finished-at="2024-01-14T15:10:44 IST" duration-ms="32812">
+    <groups>
+    </groups>
+    <test started-at="2024-01-14T15:10:12 IST" name="SearchAndAddProductsTest" finished-at="2024-01-14T15:10:44 IST" duration-ms="32812">
+      <class name="SearchAndAddProducts">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:SearchAndAddProducts@46cdf8bd]" started-at="2024-01-14T15:10:12 IST" name="setup" finished-at="2024-01-14T15:10:22 IST" duration-ms="10252" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="isSearchIconVisible()[pri:0, instance:SearchAndAddProducts@46cdf8bd]" started-at="2024-01-14T15:10:22 IST" name="isSearchIconVisible" finished-at="2024-01-14T15:10:23 IST" duration-ms="617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isSearchIconVisible -->
+        <test-method signature="isSearchBoxVisible()[pri:1, instance:SearchAndAddProducts@46cdf8bd]" started-at="2024-01-14T15:10:23 IST" name="isSearchBoxVisible" finished-at="2024-01-14T15:10:24 IST" duration-ms="960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isSearchBoxVisible -->
+        <test-method signature="isSearchRelevant()[pri:2, instance:SearchAndAddProducts@46cdf8bd]" started-at="2024-01-14T15:10:24 IST" name="isSearchRelevant" finished-at="2024-01-14T15:10:24 IST" duration-ms="501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isSearchRelevant -->
+        <test-method signature="noResultFound()[pri:3, instance:SearchAndAddProducts@46cdf8bd]" started-at="2024-01-14T15:10:24 IST" name="noResultFound" finished-at="2024-01-14T15:10:28 IST" duration-ms="3488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- noResultFound -->
+        <test-method signature="isMultiWordSearchRelevant()[pri:4, instance:SearchAndAddProducts@46cdf8bd]" started-at="2024-01-14T15:10:28 IST" name="isMultiWordSearchRelevant" finished-at="2024-01-14T15:10:29 IST" duration-ms="1755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isMultiWordSearchRelevant -->
+        <test-method signature="isMixSearchRelevant()[pri:5, instance:SearchAndAddProducts@46cdf8bd]" started-at="2024-01-14T15:10:29 IST" name="isMixSearchRelevant" finished-at="2024-01-14T15:10:30 IST" duration-ms="826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isMixSearchRelevant -->
+        <test-method signature="isProductValid()[pri:6, instance:SearchAndAddProducts@46cdf8bd]" started-at="2024-01-14T15:10:30 IST" name="isProductValid" finished-at="2024-01-14T15:10:37 IST" duration-ms="6451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isProductValid -->
+        <test-method signature="addToCart()[pri:7, instance:SearchAndAddProducts@46cdf8bd]" started-at="2024-01-14T15:10:37 IST" name="addToCart" finished-at="2024-01-14T15:10:37 IST" duration-ms="313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method signature="isProductAdded()[pri:8, instance:SearchAndAddProducts@46cdf8bd]" started-at="2024-01-14T15:10:37 IST" name="isProductAdded" finished-at="2024-01-14T15:10:41 IST" duration-ms="3997" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isProductAdded -->
+        <test-method signature="removeFromCart()[pri:9, instance:SearchAndAddProducts@46cdf8bd]" started-at="2024-01-14T15:10:41 IST" name="removeFromCart" finished-at="2024-01-14T15:10:42 IST" duration-ms="823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeFromCart -->
+        <test-method signature="isRemoved()[pri:10, instance:SearchAndAddProducts@46cdf8bd]" started-at="2024-01-14T15:10:42 IST" name="isRemoved" finished-at="2024-01-14T15:10:42 IST" duration-ms="599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isRemoved -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:SearchAndAddProducts@46cdf8bd]" started-at="2024-01-14T15:10:42 IST" name="quit" finished-at="2024-01-14T15:10:44 IST" duration-ms="1980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- SearchAndAddProducts -->
+    </test> <!-- SearchAndAddProductsTest -->
+  </suite> <!-- SearchAndAddProductsSuite -->
+</testng-results>
