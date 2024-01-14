@@ -33,3 +33,6 @@
     
   After running the tests, the reports can be found in the AdnabuTestStore/test-output/index.html directory. Right Click on index.html file -> Properties and copy the location address.     Open the HTML report in a web browser to view detailed information on test results, including passed and failed tests.
 
+![image](https://github.com/YuktiGoyal02/AdNabu-Automation-Testing-Suite/assets/100783212/12a8d902-971b-4186-96fa-179ca90b2f69)
+
+
